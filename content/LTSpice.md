@@ -1,0 +1,1 @@
+https://ltspice.softonic.ru/?ex=RAMP-4479.1&rex=true

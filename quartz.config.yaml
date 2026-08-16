@@ -139,7 +139,7 @@ plugins:
     enabled: true
     options:
       localGraph:
-        depth: 2
+        depth: -1
     layout:
       position: right
       priority: 10

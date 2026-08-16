@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: ru-RU
   baseUrl: quartz-eight-pi.vercel.app
   ignorePatterns:
     - private
@@ -139,7 +139,7 @@ plugins:
     enabled: true
     options:
       localGraph:
-        depth: 2
+        depth: -1
     layout:
       position: right
       priority: 10
